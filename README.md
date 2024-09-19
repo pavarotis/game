@@ -1,6 +1,6 @@
 # Game
 
-**FIRST OF ALL:**
+**FIRST OF ALL:** <br>
 Download the requirements from `requirements.txt` with the following command:
 ```bash
 pip install -r requirements.txt
