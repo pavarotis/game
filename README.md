@@ -1,4 +1,9 @@
-# game
+# Game
+
+**FIRST OF ALL:**
+Download the requirements from `requirements.txt` with the following command:
+```bash
+pip install -r requirements.txt
 
 Welcome to the Game repository! This project is dedicated to creating an engaging and interactive game experience. The repository contains all the necessary code, assets, and documentation needed to develop, modify, and enhance the game.
 
