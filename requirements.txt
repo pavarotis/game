@@ -1,5 +1,7 @@
-mysql==0.0.3
-mysql-connector==2.2.9
+# για εγκατάσταση πληκτρολογήστε τον παρακάτω κωδικό:
+# pip install -r requirements.txt
+
 mysql-connector-python==8.4.0
 mysqlclient==2.2.4
 PyMySQL==1.1.1
+pygame==2.6.0
